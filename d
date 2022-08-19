@@ -1,0 +1,23 @@
+[33mcommit 41d8d57527834347fad04a324e09d1e5a5d4403c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: tpma <tpma@uwaterloo.ca>
+Date:   Fri Aug 19 17:27:27 2022 -0400
+
+    Changed readme again
+
+[33mcommit 271fc2a5d30a7c51aaa80b007ac90990bf28b7d4[m
+Author: tpma <tpma@uwaterloo.ca>
+Date:   Fri Aug 19 17:23:52 2022 -0400
+
+    Editted some text
+
+[33mcommit c781ffb8070f03dc16193b63e88a0da99e7c4187[m
+Author: tpma <tpma@uwaterloo.ca>
+Date:   Fri Aug 19 17:19:57 2022 -0400
+
+    Add hello_world.txt
+
+[33mcommit 5897414860ad1a6cb5b1d58dbec28b85376c2920[m
+Author: tpma <37347179+tpma@users.noreply.github.com>
+Date:   Fri Aug 19 17:17:20 2022 -0400
+
+    Initial commit
